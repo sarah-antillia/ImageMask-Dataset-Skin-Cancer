@@ -100,4 +100,8 @@ The created <b>Skin-Cancer-ImageMask-Dataset</b> has the following folder struct
 <img src="./asset/train_masks_samples.png"  width="1024" height="auto">
 <br>
 
+<br>
+You can download Skin-Cancer-ImageMask-Dataset from the google drive 
+<a href="https://drive.google.com/file/d/1kb7Tc9OSDQ28h83QKstXrhxMuKgWQb89/view?usp=sharing">Skin-Cancer-ImageMask-Dataset.zip</a>
+<br>
 
